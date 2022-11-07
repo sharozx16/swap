@@ -1,0 +1,6 @@
+cradle:
+  cabal:
+    - path: "./app/bashoswap-pab.hs"
+      component: "exe:bashoswap-pab"
+    - path: "./app/bashoswap-client.hs"
+      component: "exe:bashoswap-client"

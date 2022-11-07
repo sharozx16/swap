@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cardano-js": "^0.4.8"
+  }
+}

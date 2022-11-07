@@ -1,0 +1,5 @@
+{
+    "imports":{
+      "std/":"https://raw.githubusercontent.com/denoland/deno_std/69f3d67cb2119e948c91fc471df9d4a0886523a3/"
+    }
+  }
